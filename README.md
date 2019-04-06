@@ -1,2 +1,2 @@
 # coursera-algorithms
-![equation](<img src="http://bit.ly/2U2aQpl" align="center" border="0" alt="log(n) \prec \sqrt{(n)} \prec n \prec n \cdot log(n) \prec n^2 \prec 2^n" width="304" height="22" />)
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
